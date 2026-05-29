@@ -5,7 +5,7 @@
 // ────────────────────────────────────────────────────────────────
 
 export const hero = {
-  name: "Anna Schneider",
+  name: "Christian Langenhan",
   role: "Product Designer",
   location: "Berlin, Germany",
   headline:
@@ -126,6 +126,6 @@ export const contact = {
 };
 
 export const meta = {
-  title: "Anna Schneider — Product Designer",
-  description: "Berlin-based product designer. Currently at Tide.",
+  title: "Christian Langenhan — Product Designer",
+  description: "Berlin-based product designer.",
 };
